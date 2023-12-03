@@ -1,0 +1,4 @@
+edu.colostate.cs415.model.Qualification
+edu.colostate.cs415.model.Worker
+edu.colostate.cs415.model.Project 
+edu.colostate.cs415.model.Company

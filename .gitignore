@@ -1,0 +1,10 @@
+.vscode
+.idea
+
+client/node_modules/
+client/build/
+
+server/target/
+server/evosuite*
+server/.clover/
+server/.ekstazi/
